@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T10:12:23 IST" name="Suite" finished-at="2024-08-31T10:12:56 IST" duration-ms="33030">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T10:12:23 IST" name="Test" finished-at="2024-08-31T10:12:56 IST" duration-ms="33030">
+      <class name="siteMap.AutomationTest02">
+        <test-method is-config="true" signature="setPath(java.lang.String)[pri:0, instance:siteMap.AutomationTest02@242b836]" started-at="2024-08-31T10:12:23 IST" name="setPath" finished-at="2024-08-31T10:12:40 IST" duration-ms="16185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPath -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:siteMap.AutomationTest02@242b836]" started-at="2024-08-31T10:12:40 IST" name="beforeMethod" finished-at="2024-08-31T10:12:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7e8a46b7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="AutomationTest02_script()[pri:0, instance:siteMap.AutomationTest02@242b836]" started-at="2024-08-31T10:12:40 IST" name="AutomationTest02_script" finished-at="2024-08-31T10:12:56 IST" duration-ms="16184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomationTest02_script -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:siteMap.AutomationTest02@242b836]" started-at="2024-08-31T10:12:56 IST" name="closeBrowser" finished-at="2024-08-31T10:12:56 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- siteMap.AutomationTest02 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
